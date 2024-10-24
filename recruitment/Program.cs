@@ -13,7 +13,9 @@
     "Lil Tecca",
     "Freddie Gibbs",
     "Westside Gunn",
-    "Joey Bada$$"
+    "Joey Bada$$",
+    "Future",
+    "Ken Carson"
     ];
 List<string> current = [];
 
